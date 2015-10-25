@@ -10,8 +10,11 @@ The dataset is data experiment data from an accelerameter gathered from various 
 The script loads the data, merges the test and training data, isolates the standard deviation and mean variables, cleans up the labels, and then summarizes all of the variables by subject and activity.
 
 Variables:
+
 activityname - name of activity that was being performed by subject when data was collected
+
 subject - ID corresponding to subject who data was collected from
+
 
 The rest of the variables are averages of various measurements taken by an individual subject performing an activity:
 "tbodyaccelerationmeanx"                    
