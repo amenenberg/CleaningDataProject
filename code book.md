@@ -1,13 +1,4 @@
-# CleaningDataProject
-Course project for cleaning data coursera class
-
-
-The file run_Analysis.R assumes the user has downloaded the following data set into the working directory:
-https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
-
-The dataset is data experiment data from an accelerameter gathered from various test subjects performing various activities
-
-The script loads the data, merges the test and training data, isolates the standard deviation and mean variables, cleans up the labels, and then summarizes all of the variables by subject and activity.
+Oops, this was previously submitted with my readme file..here is the code book:
 
 Variables:
 activityname - name of activity that was being performed by subject when data was collected
